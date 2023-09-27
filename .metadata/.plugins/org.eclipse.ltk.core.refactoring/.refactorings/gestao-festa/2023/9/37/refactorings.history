@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;gestao-festa/src/main/resources/templates/edita.html&apos; to &apos;editar.html&apos;" description="Rename resource &apos;edita.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/edita.html" name="editar.html" stamp="1694654322249" updateReferences="true"/>
+</session>
